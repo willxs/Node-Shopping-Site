@@ -1,7 +1,6 @@
-[]
-
 ## About The Project
-[![Product Name Screen Shot][screenshot]](https://raw.githubusercontent.com/willxs/Node-Shopping-Site/master/readme_images/Landing%20Page.png)
+![Product Name Screen Shot][landing-screenshot]
+
 Node JS Project to explore Node, Express, Handlebar, MongoDB. 
 
 Made website used for shopping, that has basic add to card, account functionality and also includes usage of the Paypal API for checkout. (Paypal Disabled, as Paypal Client ID, Secret removed for security)
@@ -46,6 +45,6 @@ user: william@admin.com
 pass: william
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-
+[landing-screenshot]: /readme_images/Landing%20Page.png
 
 
